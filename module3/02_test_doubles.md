@@ -173,5 +173,5 @@ Obiekty typu dummy i stub implementujemy sami. Są one tak proste, że nie potrz
 Do obiektów typu mock najczęściej wykorzystuje się bibliotekę GMock.
 <!-- .element: class="fragment fade-in" -->
 
-[Zobacz przykłady atrap w repo Pizzas](https://github.com/ziobron/Pizzas/blob/master/test/mocks/PizzaMock.hpp)
+[Zobacz przykłady atrap w repo Pizzas](https://github.com/coders-school/pizzas/blob/master/test/mocks/PizzaMock.hpp)
 <!-- .element: class="fragment fade-in" -->

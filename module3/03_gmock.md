@@ -116,13 +116,11 @@ ___
 
 ## Zadanie
 
-### [Repo Pizzas](https://github.com/ziobron/Pizzas)
+### [Repo Pizzas](https://github.com/coders-school/pizzas)
 
 0. Popraw błędy w programie, aby testy przechodziły
-1. Usuń zależność od czasu w testach za pomocą dummy lub stuba.
-2. Popraw klasę PizzaMock, aby była napisana z użyciem nowszej wersji GMocka.
-3. (Praca domowa) - 15XP Napisz klasę TimeMock, którą zastąpisz dummy/stuba z punktu 1. Dodaj właściwe `EXPECT_CALL` w kodzie testów.
-4. (Praca domowa) - 15XP Dopisz nowy przypadek testowy, w którym powielasz działanie funkcji main.cpp, ale zamawiasz 3 pizze: `StubPizza` oraz 2 różne `MockPizza`. Ustaw właściwe `EXPECT_CALL`.
+1. Popraw klasę PizzaMock, aby była napisana z użyciem nowszej wersji GMocka.
+2. Usuń zależność od czasu w testach za pomocą dummy lub stuba.
 
 ___
 <!-- .slide: style="font-size: 0.85em" -->
