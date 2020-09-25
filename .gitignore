@@ -16,9 +16,11 @@ js/reveal.min.js
 *.d
 
 # Builds, test, IDE
+!build/.gitkeep
 build/
 .vscode/
 googletest/
+katalogi
 
 # Compiled Object files
 *.slo
